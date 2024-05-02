@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+.container{
+    background-color: #23424A;
+}
+
+.childContainer{
+    width: 54%;
+    padding: 147px 0px 147px 122px;
+    color: white;
+}
+
+.heading{
+    font-weight: 900;
+    font-size: 48.05px;
+}
+
+.para{
+    margin-top: 10px;
+    font-weight: 400;
+    font-size: 21px;
+}
+
+.btn{
+    background-color: #38CFD9;
+    color: black;
+    border: none;
+    border-radius: 10em;
+    padding: 20px;
+    font-weight: 700;
+    font-size: 21px;
+    margin-top: 40px;
+}
